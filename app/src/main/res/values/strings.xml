@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FlickrPhotoSearch</string>
+    <string name="search_hint">Search...</string>
+    <string name="no_result_txt">no results</string>
+</resources>

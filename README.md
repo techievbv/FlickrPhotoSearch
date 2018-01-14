@@ -13,6 +13,10 @@ The project can help beginners as it showcases:
 4. recycling of view
 5. detecting various touch gestures 
 
+# API
+Visit https://www.flickr.com/services/api/ to read Flickr's API documentation.
+Remember, first you need to generate an API key to use the Flickr APIs from here : https://www.flickr.com/services/apps/create/  
+
 # Libraries
 1. Retrofit
 2. Gson
